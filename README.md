@@ -16,8 +16,8 @@ See ready to use app [here](https://github.com/artme-dev/PhotosFilter/tree/main/
 
 1. Choose the target folder
 2. Add name prefixes (e.g. `IMG_`, `DSCF`)
-3. Add file extensions (e.g. `.jpg`, `.dng`)
-4. Add all file names separated by the sequence of spaces, commas sor enters
+3. Add files extensions (e.g. `.jpg`, `.dng`)
+4. Add all file names separated by the sequence of spaces, commas or enters
 5. Press bottom button to start filtering
 6. Check blue labels on found files
 
